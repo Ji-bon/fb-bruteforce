@@ -12,4 +12,4 @@
 
 * chmod +x *
 
-* python2 fb-bruteforce.py
+* python2 fb-bruteforce.sh
