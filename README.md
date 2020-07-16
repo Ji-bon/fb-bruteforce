@@ -12,4 +12,4 @@
 
 * chmod +x *
 
-* python2 fb-bruteforce.sh
+* python2 fecbook.py
